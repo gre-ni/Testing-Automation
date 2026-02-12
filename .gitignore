@@ -1,0 +1,22 @@
+# Mac 
+.DS_Store
+
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# pytest cache
+.pytest_cache/
+
+# mypy cache
+.mypy_cache/
+
+# IDE settings
+.vscode/
+.idea/
